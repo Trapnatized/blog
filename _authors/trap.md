@@ -1,7 +1,7 @@
 ---
 short_name: trap
 name: Trapnatized
-position: Writer
+position: Hacker
 ---
 Trap has been hacking since he was baby.
 

@@ -40,6 +40,8 @@ plugins:
 collections:
   authors:
     output: true
+  topics:
+    output: true
     
 defaults:
   - scope:
@@ -52,6 +54,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layout: "topic"
+#  - scope:
+#      path: ""
+#      type: "about"
+#    values:
+#      layout: "about"
   - scope:
       path: ""
     values:
