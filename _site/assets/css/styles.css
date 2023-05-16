@@ -36,6 +36,10 @@ h1 {
   color: #333;
 }
 
+trap {
+  test-align: right;
+  margin: 20px 0;
+}
 
 ul {
   list-style: none;
